@@ -1,0 +1,11 @@
+body{
+    background: lightblue;
+    width: 1000px;
+    height: 1000px;
+    position :relative;
+}
+.wex, .exort, .quas .invo{
+    display: flex;
+    align-items: end;
+    left: 50px;
+} 
