@@ -11,8 +11,20 @@ body{
 } 
 .wex{
     position: absolute;
+    left: 400px;
+    top: 50px;
+}
+
+.quas{
+    position: absolute;
+    left: 300px;
+    top: 50px;
+}
+
+.exort{
+    position: absolute;
     left: 500px;
-    top: 100px;
+    top: 50px;
 }
 
 p, h1, h2{
@@ -23,8 +35,22 @@ p, h1, h2{
 position: absolute;
  display: flex;
  justify-content: center;
- left: 100;
-text-align: justify;
+ right: 540px;
+ top: 120px;
+}
+.quasT{
+    position: absolute;
+     display: flex;
+     justify-content: center;
+     right: 600px;
+     top: 200px;
+} 
+.exortT{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    right: 400px;
+    top: 120px;
 }
 .invo{
 
