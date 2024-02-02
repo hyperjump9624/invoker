@@ -42,14 +42,14 @@ position: absolute;
     position: absolute;
      display: flex;
      justify-content: center;
-     right: 600px;
-     top: 200px;
+     right: 640px;
+     top: 120px;
 } 
 .exortT{
     position: absolute;
     display: flex;
     justify-content: center;
-    right: 400px;
+    right: 435px;
     top: 120px;
 }
 .invo{
